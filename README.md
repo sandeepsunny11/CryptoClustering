@@ -27,3 +27,4 @@ A second round of clustering is performed on this reduced dataset, and the resul
 
 # Analysis
 The assignment also includes an analysis of feature weights on each principal component, highlighting the influence of each feature on the clustering process.
+After using fewer features to cluster the data, the clustering is more systematic and is more defined as data points having nearest values are clustered together while in the original data, the values were clustered whether or not they were close enough.
