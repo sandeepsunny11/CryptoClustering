@@ -7,7 +7,7 @@ pandas,
 scikit-learn,
 matplotlib,
 hvplot, and
-numpy
+numpy.
 
 # Project Workflow
 Data Preparation: 
