@@ -3,14 +3,14 @@ This assignment applies clustering analysis on cryptocurrency market data using 
 We analyze the performance of different cryptocurrencies by normalizing the data, finding the optimal number of clusters, and visualizing the data using both the original and PCA-reduced features.
 
 This project uses the following Python libraries:
-pandas
-scikit-learn
-matplotlib
-hvplot
+pandas,
+scikit-learn,
+matplotlib,
+hvplot, and
 numpy
 
 # Project Workflow
-Data Preparation
+Data Preparation: 
 Load the cryptocurrency market data from a CSV file.
 Normalize the data using StandardScaler to remove bias introduced by different value ranges.
 
